@@ -1,4 +1,4 @@
-timestamp;Kecapatan Udara m/s;Suhu Ruangan °C;MRT °C;%RH;Cloting (Perempuan);Cloting (Laki-laki);Activty;Jumlah orang;PMV Terukur;PMV Terukur h-5;PMV Terukur h-10;PMV Gform
+timestamp;kecapatan_udara;suhu_ruangan;MRT;RH;clothing_wanita;clothing_pria;aktifitas;jumlah_orang;PMV_terukur;PMV_terukur_lag5;PMV_terukur_lag10;TSV
 24/06/2024 08:00;0.03;24;24.4;64.3;0.5197;0.4983;1.1;1;1;1;1;1
 24/06/2024 08:05;0.04;24.1;24.4;64.3;0.5197;0.4983;1.1;1;1;1;1;1
 24/06/2024 08:10;0.07;24.5;24.8;65.1;0.5197;0.4983;1.1;1;1;1;1;1
